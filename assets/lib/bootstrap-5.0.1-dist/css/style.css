@@ -1,0 +1,79 @@
+#anamenu {
+  border-style: solid;
+  background-color: rgb(151, 209, 209);
+  width: 300px;
+  height: 381px;
+  float: left;
+}
+#form {
+  background-color: chocolate;
+}
+
+#checkbox ul {
+  list-style-type: none;
+}
+#checkbox ul li {
+  font-size: larger;
+  font-weight: bolder;
+  padding: 5px;
+}
+#checkbox ul li input {
+  width: auto;
+}
+#radio {
+  font-size: larger;
+  font-weight: bolder;
+}
+#radio label {
+  padding: 10px;
+}
+
+#radio form input {
+  width: auto;
+}
+
+.index-table {
+  font-size: larger;
+  font-weight: bolder;
+}
+tr {
+  border-style: dotted;
+}
+
+#input {
+  border-style: solid;
+  width: 30rem;
+}
+button ul li a {
+  text-decoration: none;
+  color: rgb(243, 235, 235);
+  font-weight: bolder;
+  padding-left: 0.4rem;
+}
+button ul {
+  list-style: none !important;
+  padding: 0;
+}
+button ul li {
+  text-align: left;
+  padding: 15px;
+  border: 2px solid white;
+}
+.bg-info {
+  background-color: rgb(146, 146, 146) !important;
+}
+
+table {
+  margin-top: 4rem;
+}
+input,
+textarea {
+  width: 40rem;
+}
+table button {
+  margin-left: 35rem;
+  background-color: rgb(84, 84, 196);
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
